@@ -2,7 +2,7 @@
 
 `Digital Craftsman (Developer/Junior Front End Dev)`
 
-Hi There 👋 Welcome to my Github! I'm a Junior Front End Developer. 
+Hello 👋 Welcome to my Github! I'm a Junior Front End Developer. 
 
 <p align='center'>
 <img src="https://media.giphy.com/media/3oz8xsaLjLVqVXr3tS/giphy.gif" width="600">
