@@ -2,12 +2,13 @@
 
 `Digital Craftsman (Developer/Junior Front End Dev)`
 
-Hello 👋 Welcome to my Github! I'm a Junior Front End Developer. 
+Hello 👋 Welcome to my Github!
 
 <p align='center'>
 <img src="https://media.giphy.com/media/3oz8xsaLjLVqVXr3tS/giphy.gif" width="600">
 </p>
 
+I'm Reza, a passionate self-taught Front end developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience.
 
 # ⚒ Technologies I use :
 <p align="center">
